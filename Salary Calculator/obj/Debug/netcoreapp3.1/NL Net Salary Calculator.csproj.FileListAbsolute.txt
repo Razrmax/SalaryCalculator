@@ -1,0 +1,31 @@
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.exe
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.deps.json
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.runtimeconfig.json
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.runtimeconfig.dev.json
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.dll
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.pdb
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.Views.dll
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\bin\Debug\netcoreapp3.1\NL Net Salary Calculator.Views.pdb
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.AssemblyInfo.cs
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.RazorAssemblyInfo.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.RazorAssemblyInfo.cs
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\staticwebassets\NL Net Salary Calculator.StaticWebAssets.Manifest.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\staticwebassets\NL Net Salary Calculator.StaticWebAssets.xml
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\scopedcss\bundle\NL Net Salary Calculator.styles.css
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.TagHelpers.input.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.TagHelpers.output.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.RazorCoreGenerate.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.RazorTargetAssemblyInfo.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.RazorTargetAssemblyInfo.cs
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.Views.pdb
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.dll
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.pdb
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.genruntimeconfig.cache
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\NL Net Salary Calculator.csproj.CopyComplete
+C:\Users\maxim\source\repos\NL Net Salary Calculator\NL Net Salary Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs

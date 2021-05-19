@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRxHGE7luiFbUg7XQjdNVxL9rP/bdKxlsSE3wYjdHwZAJujy8CWuQcVc1LmE3hmh5gF9seH67bf5iR0Mc5IoTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxim\\source\\repos\\Salary Calculator\\Salary Calculator\\Salary Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
