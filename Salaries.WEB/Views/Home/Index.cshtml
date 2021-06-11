@@ -1,0 +1,35 @@
+﻿@model Salaries.DAL.Services.SalaryCalculator;
+
+<title>NL Net Salary Calculator</title>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div>Base salary per hour: </div> @Html.TextBoxFor(m => m.Salary.BasePerHourRate)
+    <br />
+    <div>Base hours: </div> @Html.TextBoxFor(m => m.RegularHours)
+    <br />
+    <div>Overtime rate: </div> @Html.TextBoxFor(m => m.Salary.Rates.ElementAt(0).RateMultiplier)
+    <br />
+    <div>Weekend rate: </div> @Html.TextBoxFor(m => m.Salary.Rates.ElementAt(3).RateMultiplier)
+    <br />
+    <div>Weekend hours: </div> @Html.TextBoxFor(m => m.WeekendHours)
+    <br />
+    <div>Holiday rate: </div> @Html.TextBoxFor(m => m.Salary.Rates.ElementAt(2).RateMultiplier)
+    <br />
+    <div>Holiday hours: </div> @Html.TextBoxFor(m => m.HolidayHours)
+    <br />
+    <div>Shift allowance: </div> @Html.TextBoxFor(m => m.Salary.Rates.ElementAt(1).RateMultiplier)
+    <br />
+    <div>Living expenses: </div> @Html.TextBoxFor(m => m.LivingCosts)
+    <br />
+    <div></div>
+
+    <input id="Submit" type="submit" value="submit" />
+}
+
+<hr />
+<strong>Gross Salary: </strong> @Html.DisplayFor(m => m.Salary.GrossSalary)
+<br />
+<strong>Tax: </strong> @Html.DisplayFor(m => m.Tax.Amount)
+<br />
+<strong>Tax credit: </strong> @Html.DisplayFor(m => m.TaxCredits.Amount)

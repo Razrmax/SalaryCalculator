@@ -1,0 +1,13 @@
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\bin\Debug\net5.0\Salaries.BL.deps.json
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\bin\Debug\net5.0\Salaries.BL.dll
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\bin\Debug\net5.0\ref\Salaries.BL.dll
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\bin\Debug\net5.0\Salaries.BL.pdb
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.AssemblyInfo.cs
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.dll
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\ref\Salaries.BL.dll
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.pdb
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.Properties.Resources.resources
+C:\Users\maxim\source\repos\SalaryCalculator\Salaries.BL\obj\Debug\net5.0\Salaries.BL.csproj.GenerateResource.cache
